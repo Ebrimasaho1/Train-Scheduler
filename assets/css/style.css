@@ -1,0 +1,8 @@
+body{
+    background-image: url("trainImg.jpg");
+    background-size:100%;
+    
+}
+#currentTain{
+    background-image: blue;
+}
